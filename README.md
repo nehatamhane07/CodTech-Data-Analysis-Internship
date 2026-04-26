@@ -1,7 +1,7 @@
 
 # CodTech Internship - Data Analysis
-# Name of the Intern - Neha Tamhane
-# Intern ID - CTIS7850
+## Name of the Intern - Neha Tamhane
+## Intern ID - CTIS7850
 
 ## Tasks Completed
 
